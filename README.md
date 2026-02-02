@@ -4,12 +4,12 @@
 
 This project exists to be delivered for the first obligatory assignment for DATA1300. It fullfils the requirements by including the files as displayed below:
 
-your-username-oblig1/
-├── README.md
-├── hello_health.py
-├── requirements.txt
-├── setup_checklist.md
-└── .gitignore
+your-username-oblig1/  
+  ├── README.md <br>
+  ├── hello_health.py <br>
+  ├── requirements.txt <br>
+  ├── setup_checklist.md <br>
+  └── .gitignore
 
 ## Installation and Running instructions ##
 
